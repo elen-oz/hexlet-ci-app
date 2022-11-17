@@ -2,7 +2,7 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
-![hexlet-ci-app](https://github.com/elen-oz/hexlet-ci-app/actions/workflows/hexlet-ci-app_checkout/badge.svg)
+![GH-actions](https://github.com/elen-oz/hexlet-ci-app/actions/workflows/hexlet-ci-app_checkout.yml/badge.svg)
 
 ## System requirements
 
